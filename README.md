@@ -1,3 +1,5 @@
+![Profile banner](assets/hero.svg)
+
 # नमस्ते, मैं [आपका नाम] 👋
 
 मैं [Vibe Coder]।
