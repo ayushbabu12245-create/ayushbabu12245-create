@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="260" viewBox="0 0 900 260">
+  <defs>
+    <linearGradient id="bg" x1="0" x2="1" y1="0" y2="1">
+      <stop stop-color="#10070C"/>
+      <stop offset="1" stop-color="#701A3D"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="260" rx="24" fill="url(#bg)"/>
+  <circle cx="760" cy="60" r="110" fill="#C77B9B" opacity=".12"/>
+  <path d="M40 205 Q250 130 420 190 T860 145" fill="none" stroke="#E5B5C7" stroke-width="2" opacity=".55"/>
+  <text x="55" y="112" fill="#F8F0F3" font-family="Arial,sans-serif" font-size="38" font-weight="bold">AYUSH PASWAN</text>
+  <text x="58" y="155" fill="#E5B5C7" font-family="Arial,sans-serif" font-size="18">AI/ML Engineer • Full-Stack Developer</text>
+</svg>
